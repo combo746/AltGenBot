@@ -9,7 +9,7 @@ client.on('ready', () => {
     setInterval(() => {
 
         const statuses = [
-            "By jake10131",
+            "with happykitten",
             `${prefix}help`,
             "AltGen"
         ]
